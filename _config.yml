@@ -30,6 +30,10 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 twitter_username: tbc
 github_username:  effusivity
 
+load_paths:
+    - _sass
+    - node_modules
+
 # Build settings
 # theme: minima
 # remote_theme: pages-themes/midnight@v0.2.0
